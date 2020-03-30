@@ -17,7 +17,7 @@
 	floor value will be printed
 	in objects-the bigger objects can be type casted to smaller not the vice versa
 ## stacks
-	 In computer science, a stack or LIFO (last in, first out) is an abstract data type that serves as a 			collection of elements, with two principal operations: push, which adds an element to the collection, 			and pop, which removes the last element that was added.
+	 In computer science, a stack or LIFO (last in, first out) is an abstract data type that serves as a collection of elements, with two principal operations: push, which adds an element to the collection,and pop, which removes the last element that was added.
 ## field modifiers
 	ACCESS CONTROL MODIFIERS
 	• private-acces. only in class
@@ -101,7 +101,7 @@
 	4) 25[0-5] catches numbers between 250 and 255.
 	Note that \d represents digits in regular expressions, same as [0-9]
 	Edit: Replaced "." with "\." as suggested in some of the comments
-	• regrex-https://www.vogella.com/tutorials/JavaRegularExpressions/article.html#rules-of-writing-regular-		expressions
+	• regrex-https://www.vogella.com/tutorials/JavaRegularExpressions/article.html#rules-of-writing-regular-expressions
 	
 ## oops
 	• extends keyword for inheritance
